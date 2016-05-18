@@ -4,7 +4,7 @@ public class Cosinus implements Function<Double>{
 	
 	public Double evaluate(double x){
 		return Math.cos(x);
-		int test = 1;
+		int test = 2;
 	}
 		
 	
